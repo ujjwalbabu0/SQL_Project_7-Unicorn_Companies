@@ -8,7 +8,7 @@ A data analytics project using SQL focused on analyzing unicorn startup companie
 
 ------------------------------------------------------------------------------------------------
 
-## 📊 Project Overview  
+## Project Overview  
 - **Level:** Intermediate to Advanced  
 - **Database:** `unicorn_info`  
 - **Dataset:** `Unicorn_Companies.csv`  
@@ -23,7 +23,7 @@ A data analytics project using SQL focused on analyzing unicorn startup companie
 
 ------------------------------------------------------------------------------------------------
 
-## 🎯 Objectives
+## Objectives
 
 ### 1. **Database Setup & Cleaning**  
 - Create `unicorn_info` database  
@@ -46,7 +46,7 @@ A data analytics project using SQL focused on analyzing unicorn startup companie
 
 ------------------------------------------------------------------------------------------------
 
-## 📁 File Descriptions
+## File Descriptions
 
 - `Unicorn_Companies.csv` – Raw data of unicorn startups: valuations, industries, investors, locations, and founding/joining dates  
 - `P8- unicorn_companies.sql` –  
@@ -57,7 +57,7 @@ A data analytics project using SQL focused on analyzing unicorn startup companie
 
 ------------------------------------------------------------------------------------------------
 
-## 📌 Key Questions Answered
+## Key Questions Answered
 
 ### General & Descriptive
 - How many unicorn companies exist in the dataset?  
@@ -76,7 +76,7 @@ A data analytics project using SQL focused on analyzing unicorn startup companie
 
 ------------------------------------------------------------------------------------------------
 
-## 🔮 Advanced Insights
+## Advanced Insights
 - Industry & country share % of unicorn distribution  
 - Recursive parsing of comma-separated investor lists  
 - Time-to-unicorn heatmaps (via grouped data)  
@@ -84,7 +84,7 @@ A data analytics project using SQL focused on analyzing unicorn startup companie
 
 ------------------------------------------------------------------------------------------------
 
-## 🧠 Conclusion
+## Conclusion
 
 This project showcases the power of SQL in analyzing startup ecosystem data. From investor mapping to ROI and regional dominance, the queries deliver a 360° view of the unicorn landscape. It demonstrates how structured querying and data transformation can support deeper insights into venture capital, entrepreneurship, and global tech trends.
 
